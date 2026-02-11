@@ -1,5 +1,3 @@
-Sure! Here's a medium-length, professional README for your Customer Churn Analysis project. It’s concise but still detailed enough for GitHub or portfolio use:
-
 Customer Churn Analysis
 Project Overview
 
